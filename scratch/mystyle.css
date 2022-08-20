@@ -1,0 +1,10 @@
+.card {
+    width: 350px;
+    padding: 20px;
+    margin: 20px;
+    background: white;
+}
+
+.cardimage {
+    width: 100%;
+}
